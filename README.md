@@ -31,9 +31,9 @@
 [//]: # "Add the features of your project here:"
 
 - 💹 **Node.js** — A JavaScript runtime built on Chrome's V8;
-- 💼 **React Native** — A framework for building native apps using React;
-- ⛏ **Expo** — An open source platform to develop projects for Android and iOS;
-- 🔷 **Typescript** — A typed superset of JavaScript.
+- 🔷 **Typescript** — A typed superset of JavaScript;
+- 💼 **Express** — A fast, flexible and minimalist web framework for Node.js;
+- 📄 **Knex** — A SQL query builder for a lot of SQL databases.
 
 ## 💻 Getting started
 
