@@ -26,6 +26,11 @@
   <li>Uploade of images.</li>
 </ul>
 
+<ul>
+  <li><a href="https://github.com/sartero/ecoleta-frontend-mobile">Frontend Mobile</a></li>
+  <li><a href="https://github.com/sartero/ecoleta-frontend-web">Frontend Web</a></li>
+</ul>
+
 ## 🧰 Techs
 
 [//]: # "Add the features of your project here:"
